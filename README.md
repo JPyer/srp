@@ -1,7 +1,7 @@
 # srp
 Sound source localization algorithm  
-# Update document  
-Upload offline audio     
+Real-time sound source location Python  
+
 
 
 
